@@ -1,7 +1,3 @@
-
-//Riddhi Musale
-//Prn:23070123108
-//Exp 4 Bitwise Operators 
 #include<iostream>
 using namespace std;
 
